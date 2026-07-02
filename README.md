@@ -2,8 +2,8 @@
 
 An automated n8n workflow that connects a Large Language Model (OpenAI) to a PostgreSQL database using an AI Agent. This allows users to converse with their database using natural language rather than writing complex SQL queries.
 
-## 🚀 Visual Workflow
-![n8n Workflow Canvas](./images.png) 
+## 🚀 Visual Workflow!
+[n8n Workflow Canvas](./image/image.png)
 *(Tip: Take a high-quality screenshot of your canvas and place it here)*
 
 ## 🛠️ Tech Stack & Nodes Used
